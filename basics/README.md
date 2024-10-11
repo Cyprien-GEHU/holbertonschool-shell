@@ -6,3 +6,4 @@
 5-listfilesdigitonly : display current directory , hidden files and ID groupe + list numerics
 6-firstdirectory : creates a diresctory named "my_first_directory" in /tmp/
 7-movethatfile : movie the file "betty" in "/tmp/my_first_directory"
+8-firstdelete : delete file betty in "/tmp/my_first_directory"
