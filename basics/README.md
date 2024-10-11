@@ -4,3 +4,5 @@
 3-listfiles : display current directory in long format
 4-listmorefiles: diplays current directory and hidden files in long format
 5-listfilesdigitonly : display current directory , hidden files and ID groupe + list numerics
+6-firstdirectory : creates a diresctory named "my_first_directory" in /tmp/
+7-movethatfile : movie the file "betty" in "/tmp/my_first_directory"
