@@ -3,3 +3,4 @@
 2-groups: The script print all groups the current user is part of
 3-new_owner : The script will change the owner of the file "hello" to user "betty" 
 4-empty : The Script will creates an empty file called "hello"
+5-execute : the Script add execute persomission to the owner of the file
