@@ -14,3 +14,4 @@
 13-symbolic_link : create a symbolic link
 14-copy_html : copy all html files in current dirctory to parent directory
 15-lets_move : a Script will move all files beginning with an uppercase letter to the directory "/tmp/u"
+16-clean_emacs : the Script will deletes all files in the current directory end with "~"
