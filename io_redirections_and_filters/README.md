@@ -1,5 +1,6 @@
 0-hello_world : the script will print : "Hello, World" follwed by a new lineto the standard output
 1-confused_smiley : The script displays a confused smiley
 2-hellofile : the script display the content of "/etc/passwd"
-3-twofiles : The script display the content of /etc/passwd" and "/etc/hosts"
-4-lastlines : The script display the last 10 lines of /etc/passwd 
+3-twofiles : The script display the content of "/etc/passwd" and "/etc/hosts"
+4-lastlines : The script display the last 10 lines of "/etc/passwd"
+5-firstlines : The script display the first 10 lines of "etc/passwd" 
