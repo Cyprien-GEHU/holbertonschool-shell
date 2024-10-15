@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+x ./[!file]
+chmod -R ugo+x ./[!file]
