@@ -9,3 +9,4 @@
 8-James_Bond: The script set permission read, write and execute only on other users (file "hello")
 9-John_Doe: The script will setes the mode of the file hello
 10-mirror_permissions: The Script will sets the mode of the file "hello" the same as "olleh"
+11-directories_permissions : The script add execute permission to all subdirectories of the current directory to the owener, groups and other users
