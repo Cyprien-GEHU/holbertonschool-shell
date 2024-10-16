@@ -8,3 +8,4 @@
 7-file:The script that creates a file named exactly "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" containing the text "Best School" ***
 8-cwd_state : the script will result of the the command "ls -la" into the file "ls_cwd_content" and if the file already exists, the file are overwritten, if not create.
 9-duplicate_last_line : the script ducplicates the last line of the file iacta
+10-no_more_js : The script delete all regular files with a .js (not directory)
