@@ -12,3 +12,4 @@
 11-directories : the script will count the number of directories and sub-directories
 12-newest_files : The script will display the 10 newest in the current directory
 13-unique : The script that takes a list of worlds as input and print only world that appear exactly once
+14-findthatword: The script display lines containing the parttern "root" from the file "/etc/passwd"
