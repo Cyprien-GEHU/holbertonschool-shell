@@ -11,3 +11,4 @@
 10-no_more_js : The script delete all regular files with a .js (not directory)
 11-directories : the script will count the number of directories and sub-directories
 12-newest_files : The script will display the 10 newest in the current directory
+13-unique : The script that takes a list of worlds as input and print only world that appear exactly once
