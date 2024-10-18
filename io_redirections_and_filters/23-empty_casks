@@ -1,2 +1,2 @@
 #!/bin/bash
-find -empty | tr "/" "\n" | tr "." "\e"
+find -empty | tr "/" "\n" 
