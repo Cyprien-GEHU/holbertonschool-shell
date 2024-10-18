@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $(printf "%d" "$((2#$bin_number))")
+expr $(printf "%d" "$((2#$BINARY))")
