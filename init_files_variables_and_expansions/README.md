@@ -6,3 +6,4 @@
 5-local_variables: The script lists all local variables and environment variables and function
 6-create_local_variable: the script create a new local variable (Name: BEST, Value: "School")
 7-create_global_variable : the script create a new global variable (Name: BEST, Value: "School")
+8-true_knowledge: the script print the resultat of the addition of 128 with the value stored in the environment variable "TRUEKNOWLEGDE"
