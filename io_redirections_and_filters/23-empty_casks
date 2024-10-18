@@ -1,2 +1,2 @@
 #!/bin/bash
-find -empty | tr -t "/" "\n" | sort -n 
+find -type f -empty | tr -t "/" "\n" | sort -n |uniq -u  
