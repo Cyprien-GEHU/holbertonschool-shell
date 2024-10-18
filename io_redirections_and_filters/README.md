@@ -20,4 +20,5 @@
 19-AZ : The script remplace "A" and "c" by "Z" and "e"
 20-hiago : The script remove all letters c and C from input
 21-reverse: The script will reverse the input
-22-users_and_homes: The script will display all users and their home directories, sorted by user 
+22-users_and_homes: The script will display all users and their home directories, sorted by user
+23-empty_casks: the script find all empty files and directories in the current directory and all sub-directories  
